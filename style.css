@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+canvas {
+    border: 1px solid grey;
+    text-align: center;
+}
+
+img {
+  display: none;
+}
+
+#stop-watch {
+color: red;
+}
+
